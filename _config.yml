@@ -1,12 +1,12 @@
 # User config
-author: "Art with JetpackCompose"
+author: "Compose Artistry"
 tagline: "Jetpack Compose Animations"
 description: "A collection of awesome animations & generative-arts created with Jetpack Compose."
 keywords: "Jetpack Compose, jetpack compose, compose, JetpackCompose, Android, p5js, NFT, generative-art, art"
 email: "nikhyl777@gmail.com"
 linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+twitter: "https://twitter.com/CuriousNikhyl"
+github: "https://github.com/CuriousNikhil/compose-artistry"
 
 # Site config
 baseurl: "/"
