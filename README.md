@@ -1,5 +1,5 @@
 # compose-artistry
-A collection of awesome Jetpack Compose animations and generative art.
+A collection of awesome animations and generative art made with Jetpack Compose!
 
 ## Contribution
 
