@@ -23,7 +23,7 @@ permalink: /:title/
 category: projects
 
 project:
-  title: "Gravitational Attraction"
+  title: "<name of the animation/art>"
   video: "https://user-images.githubusercontent.com/blaablaa/blaablaa/blaabla.mov"
   image:
   link: "https://github.com/<your-repository-path-to-code-on-github>/<filename>.kt"
