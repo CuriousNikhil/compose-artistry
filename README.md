@@ -17,6 +17,21 @@ To add your contribution, all you should do is follow simple steps...
 
 3. Put up all the required details
 
+```markdown
+---
+permalink: /:title/
+category: projects
+
+project:
+  title: "Gravitational Attraction"
+  video: "https://user-images.githubusercontent.com/blaablaa/blaablaa/blaabla.mov"
+  image:
+  link: "https://github.com/<your-repository-path-to-code-on-github>/<filename>.kt"
+  keywords: "k5-compose" 
+---
+
+```
+
     a. `title` : Your animation title
     
     b. `video` : Just drag and drop the video of your art/animation into the file you are editing on Github and paste the link it has generated as value
