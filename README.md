@@ -29,22 +29,21 @@ project:
   link: "https://github.com/<your-repository-path-to-code-on-github>/<filename>.kt"
   keywords: "k5-compose" 
 ---
-
 ```
 
-    a. `title` : Your animation title
-    
-    b. `video` : Just drag and drop the video of your art/animation into the file you are editing on Github and paste the link it has generated as value
-    
-    c. `image` : Image link for your animation/art (Or you can do the same like video, just drag and drop the image into your Github file while editing and set value as link)
-    
-    ~~~
-        My friend, however, you must only include either a video or an image of your art piece. (Just don't add both)
-    ~~~
-    
-    d. `link` : The link to your code (/gist/repository)
-    
-    e. `keywords` : You know what is this.
+a. `title` : Your animation title
+
+b. `video` : Just drag and drop the video of your art/animation into the file you are editing on Github and paste the link it has generated as value
+
+c. `image` : Image link for your animation/art (Or you can do the same like video, just drag and drop the image into your Github file while editing and set value as link)
+
+~~~
+    My friend, however, you must only include either a video or an image of your art piece. (Just don't add both)
+~~~
+
+d. `link` : The link to your code (/gist/repository)
+
+e. `keywords` : You know what is this.
 
 4.  Raise a PR~ !!!!
 
